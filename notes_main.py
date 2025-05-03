@@ -1,4 +1,4 @@
-# Импортируем необходимые инструменты из библиотеки PyQt5
+#banan# Импортируем необходимые инструменты из библиотеки PyQt5
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import (
     QApplication,      # Приложение, которое мы будем создавать
